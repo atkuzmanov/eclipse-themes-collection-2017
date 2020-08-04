@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="3595" name="DarkBlue Real Vim" modified="2011-09-22 10:07:07" author="Patrick McFarland" website="http://adterrasperaspera.com">
+    <searchResultIndication color="#464680" />
+    <filteredSearchResultIndication color="#464680" />
+    <occurrenceIndication color="#464680" />
+    <writeOccurrenceIndication color="#464680" />
+    <findScope color="#464680" />
+    <deletionIndication color="#FFA500" underline="false" strikethrough="true" />
+    <sourceHoverBackground color="#000040" />
+    <singleLineComment color="#80A0FF" />
+    <multiLineComment color="#80A0FF" />
+    <commentTaskTag color="#FFFF60" />
+    <javadoc color="#80A0FF" />
+    <javadocLink color="#80A0FF" />
+    <javadocTag color="#80A0FF" />
+    <javadocKeyword color="#FFA500" />
+    <class color="#C0C0C0" />
+    <interface color="#C0C0C0" />
+    <method color="#C0C0C0" bold="false" />
+    <methodDeclaration color="#C0C0C0" bold="false" />
+    <bracket color="#C0C0C0" />
+    <number color="#FFA0A0" />
+    <string color="#FFA0A0" />
+    <operator color="#C0C0C0" />
+    <keyword color="#60FF60" bold="false" />
+    <annotation color="#FF80FF" />
+    <staticMethod color="#C0C0C0" />
+    <localVariable color="#C0C0C0" />
+    <localVariableDeclaration color="#C0C0C0" />
+    <field color="#C0C0C0" bold="false" />
+    <staticField color="#C0C0C0" />
+    <staticFinalField color="#C0C0C0" />
+    <deprecatedMember color="#FFA500" underline="false" strikethrough="true" />
+    <enum color="#C0C0C0" />
+    <inheritedMethod color="#C0C0C0" />
+    <abstractMethod color="#C0C0C0" bold="false" />
+    <parameterVariable color="#C0C0C0" />
+    <typeArgument color="#C0C0C0" bold="false" />
+    <typeParameter color="#C0C0C0" bold="false" />
+    <constant color="#FFA0A0" bold="false" />
+    <background color="#000040" />
+    <currentLine color="#000040" />
+    <foreground color="#C0C0C0" />
+    <lineNumber color="#90F020" />
+    <selectionBackground color="#8B8BFF" />
+    <selectionForeground color="#C0C0C0" />
+</colorTheme>

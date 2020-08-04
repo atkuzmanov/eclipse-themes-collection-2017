@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="9704" name="Terminal Green" modified="2012-08-07 14:34:02" author="Chris">
+    <searchResultIndication color="#000000" />
+    <filteredSearchResultIndication color="#000000" />
+    <occurrenceIndication color="#000000" />
+    <writeOccurrenceIndication color="#000000" />
+    <findScope color="#111111" />
+    <deletionIndication color="#008800" />
+    <sourceHoverBackground color="#000000" />
+    <singleLineComment color="#00AA00" italic="false" />
+    <multiLineComment color="#00AA00" italic="false" />
+    <commentTaskTag color="#00AA00" italic="false" />
+    <javadoc color="#00AA00" italic="false" />
+    <javadocLink color="#00AA00" italic="false" />
+    <javadocTag color="#00AA00" italic="false" />
+    <javadocKeyword color="#00AA00" italic="false" />
+    <class color="#00FF00" bold="true" underline="false" strikethrough="false" />
+    <interface color="#00FF00" bold="true" />
+    <method color="#00FF00" bold="false" />
+    <methodDeclaration color="#00FF00" bold="true" />
+    <bracket color="#00FF00" />
+    <number color="#00FF00" />
+    <string color="#00FF00" />
+    <operator color="#00FF00" />
+    <keyword color="#00FF00" bold="true" />
+    <annotation color="#00FF00" />
+    <staticMethod color="#00FF00" />
+    <localVariable color="#00FF00" />
+    <localVariableDeclaration color="#00FF00" />
+    <field color="#00FF00" />
+    <staticField color="#00FF00" bold="true" />
+    <staticFinalField color="#00FF00" />
+    <deprecatedMember color="#008800" underline="false" strikethrough="true" />
+    <enum color="#00FF00" bold="true" />
+    <inheritedMethod color="#00FF00" />
+    <abstractMethod color="#00FF00" />
+    <parameterVariable color="#00FF00" />
+    <typeArgument color="#00FF00" />
+    <typeParameter color="#00FF00" />
+    <constant color="#00FF00" />
+    <background color="#000000" />
+    <currentLine color="#2A2A2A" />
+    <foreground color="#00FF00" />
+    <lineNumber color="#00AA00" />
+    <selectionBackground color="#00FF00" />
+    <selectionForeground color="#000000" />
+</colorTheme>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="5755" name="Sublime like" modified="2012-01-29 23:15:16" author="Oleg Yakovenko">
+    <searchResultIndication color="#D8D8D8" />
+    <filteredSearchResultIndication color="#D8D8D8" />
+    <occurrenceIndication color="#000000" />
+    <writeOccurrenceIndication color="#000000" />
+    <findScope color="#000000" />
+    <deletionIndication color="#FF0000" bold="true" />
+    <sourceHoverBackground color="#999999" />
+    <singleLineComment color="#999999" bold="true" underline="false" strikethrough="false" />
+    <multiLineComment color="#999999" bold="true" underline="false" strikethrough="false" />
+    <commentTaskTag color="#999999" bold="true" underline="false" strikethrough="false" />
+    <javadoc color="#999999" bold="true" />
+    <javadocLink color="#CFBFAD" bold="true" underline="false" strikethrough="false" />
+    <javadocTag color="#CFBFAD" bold="true" underline="false" strikethrough="false" />
+    <javadocKeyword color="#D9E577" bold="true" />
+    <class color="#FFFFFF" bold="true" underline="false" strikethrough="false" />
+    <interface color="#FFFFFF" bold="true" underline="false" strikethrough="false" />
+    <method color="#FFFFFF" bold="true" underline="false" strikethrough="false" />
+    <methodDeclaration color="#FFFFFF" bold="true" underline="false" strikethrough="false" />
+    <bracket color="#F9FAF4" bold="true" underline="false" strikethrough="false" />
+    <number color="#C48CFF" bold="true" underline="false" strikethrough="false" />
+    <string color="#ECE47E" bold="true" />
+    <operator color="#52E3F6" bold="true" />
+    <keyword color="#52E3F6" bold="true" />
+    <annotation color="#FFFFFF" bold="true" />
+    <staticMethod color="#A7EC21" bold="true" italic="true" />
+    <localVariable color="#FFFFFF" bold="true" />
+    <localVariableDeclaration color="#FFFFFF" bold="true" />
+    <field color="#00AD20" bold="true" />
+    <staticField color="#00AD20" bold="true" />
+    <staticFinalField color="#00AD20" bold="true" />
+    <deprecatedMember color="#FF0000" bold="true" />
+    <inheritedMethod color="#BED6FF" bold="true" />
+    <abstractMethod color="#BED6FF" bold="true" />
+    <parameterVariable color="#FFFFFF" bold="true" />
+    <typeArgument color="#BFA4A4" bold="true" />
+    <typeParameter color="#BFA4A4" bold="true" underline="false" strikethrough="false" />
+    <constant color="" underline="false" strikethrough="false" />
+    <background color="#000000" />
+    <currentLine color="#5B5A4E" />
+    <foreground color="#FFFFFF" />
+    <lineNumber color="#999999" />
+    <selectionBackground color="#CC9900" />
+    <selectionForeground color="#404040" />
+</colorTheme>

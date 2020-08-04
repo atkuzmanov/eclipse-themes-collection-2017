@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="2840" name="bgreen" modified="2011-08-04 11:48:46" author="Shoogun" website="bgreen">
+    <searchResultIndication color="#F4FA58" />
+    <filteredSearchResultIndication color="#F4FA58" />
+    <occurrenceIndication color="#F4FA58" />
+    <writeOccurrenceIndication color="#F4FA58" />
+    <findScope color="#FFFFFF" />
+    <deletionIndication color="#FFFFFF" />
+    <sourceHoverBackground color="#D8D8D8" />
+    <singleLineComment color="#808080" italic="false" />
+    <multiLineComment color="#808080" italic="false" />
+    <commentTaskTag color="#808080" italic="false" />
+    <javadoc color="#FF3300" italic="false" />
+    <javadocLink color="#990099" italic="false" />
+    <javadocTag color="#990099" italic="false" />
+    <javadocKeyword color="#990099" italic="false" />
+    <class color="#CC0000" bold="false" underline="false" strikethrough="false" />
+    <interface color="#666666" />
+    <method color="#CC0000" />
+    <methodDeclaration color="#000099" />
+    <bracket color="#000099" />
+    <number color="#0000FF" />
+    <string color="#008000" />
+    <operator color="#000000" />
+    <keyword color="#0000FF" bold="false" />
+    <annotation color="#990000" />
+    <staticMethod color="#990000" />
+    <localVariable color="#000000" />
+    <localVariableDeclaration color="#000099" />
+    <field color="#000000" />
+    <staticField color="#552200" />
+    <staticFinalField color="#FF9900" />
+    <deprecatedMember color="#D8D8D8" underline="false" strikethrough="true" />
+    <enum color="#FF0000" />
+    <inheritedMethod color="#000099" />
+    <abstractMethod color="#000099" />
+    <parameterVariable color="#0000FF" />
+    <typeArgument color="#0000FF" />
+    <typeParameter color="#006600" />
+    <constant color="#552200" />
+    <background color="#CFEBCF" />
+    <currentLine color="#CFEBCF" />
+    <foreground color="#000000" />
+    <lineNumber color="#BDBDBD" />
+    <selectionBackground color="#FE9A2E" />
+    <selectionForeground color="#333333" />
+</colorTheme>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="19243" name="Darcula Android Studio" modified="2013-08-14 21:30:30" author="Tony Gaisser">
+    <searchResultIndication color="#425F44" />
+    <filteredSearchResultIndication color="#425F44" />
+    <occurrenceIndication color="#424445" />
+    <writeOccurrenceIndication color="#532B2E" />
+    <findScope color="#424445" />
+    <deletionIndication color="#FF00FF" />
+    <sourceHoverBackground color="#424445" />
+    <singleLineComment color="#808080" />
+    <multiLineComment color="#808080" italic="true" />
+    <commentTaskTag color="#A8C023" />
+    <javadoc color="#808080" />
+    <javadocLink color="#FFCCFF" />
+    <javadocTag color="#808080" />
+    <javadocKeyword color="#00FF00" />
+    <class color="#A9B7C6" />
+    <interface color="#A9B7C6" />
+    <method color="#A9B7C6" />
+    <methodDeclaration color="#FFC66D" />
+    <bracket color="#A9B7C6" />
+    <number color="#6897BB" />
+    <string color="#6A8759" />
+    <operator color="#A9B7C6" />
+    <keyword color="#CC7832" />
+    <annotation color="#BBB529" />
+    <staticMethod color="#A9B7C6" />
+    <localVariable color="#A9B7C6" />
+    <localVariableDeclaration color="#A9B7C6" />
+    <field color="#9876AA" />
+    <staticField color="#9876AA" />
+    <staticFinalField color="#9876AA" italic="true" />
+    <deprecatedMember color="#FFFF00" />
+    <enum color="#A9B7C6" />
+    <inheritedMethod color="#A9B7C6" />
+    <abstractMethod color="#A9B7C6" />
+    <parameterVariable color="#A9B7C6" />
+    <typeArgument color="#A9B7C6" />
+    <typeParameter color="#00FFFF" />
+    <constant color="#9876AA" />
+    <background color="#2B2B2B" />
+    <currentLine color="#323232" />
+    <foreground color="#A9B7C6" />
+    <lineNumber color="#808080" />
+    <selectionBackground color="#214283" />
+    <selectionForeground color="#A9B7C6" />
+</colorTheme>

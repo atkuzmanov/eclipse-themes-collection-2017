@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="3077" name="Sublime Ink" modified="2011-08-17 21:08:17" author="Ben Cable">
+    <searchResultIndication color="#D8D8D8" />
+    <filteredSearchResultIndication color="#D8D8D8" />
+    <occurrenceIndication color="#000000" />
+    <writeOccurrenceIndication color="#000000" />
+    <findScope color="#000000" />
+    <deletionIndication color="#FF0000" />
+    <sourceHoverBackground color="#FFFFFF" />
+    <singleLineComment color="#D9D9D9" />
+    <multiLineComment color="#D9D9D9" />
+    <commentTaskTag color="#D9D9D9" />
+    <javadoc color="#D9D9D9" />
+    <javadocLink color="#828282" />
+    <javadocTag color="#828282" />
+    <javadocKeyword color="#828282" />
+    <class color="#9CF828" bold="false" />
+    <interface color="#87F025" bold="false" />
+    <method color="#FF007F" bold="false" />
+    <methodDeclaration color="#FF007F" bold="false" />
+    <bracket color="#F9FAF4" bold="false" italic="false" underline="false" strikethrough="false" />
+    <number color="#F7C527" />
+    <string color="#F7C527" />
+    <operator color="#CFCFCF" />
+    <keyword color="#38BDFF" bold="false" />
+    <annotation color="#FFFFFF" />
+    <staticMethod color="#A7EC21" bold="false" />
+    <localVariable color="#FF007F" bold="false" />
+    <localVariableDeclaration color="#CFCFCF" bold="false" />
+    <field color="#FF007F" bold="false" />
+    <staticField color="#FF007F" bold="false" />
+    <staticFinalField color="#FF007F" bold="false" />
+    <deprecatedMember color="#FF0000" />
+    <inheritedMethod color="#BED6FF" />
+    <abstractMethod color="#BED6FF" />
+    <parameterVariable color="#79ABFF" />
+    <typeArgument color="#BFA4A4" />
+    <typeParameter color="#BFA4A4" />
+    <background color="#191919" />
+    <currentLine color="#222220" />
+    <foreground color="#EDEDED" />
+    <lineNumber color="#666666" />
+    <selectionBackground color="#414C3B" />
+    <selectionForeground color="#FFFFFF" />
+</colorTheme>

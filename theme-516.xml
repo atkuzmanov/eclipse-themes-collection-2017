@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="516" name="VIM Darkblue" modified="2012-06-14 18:36:56" author="ThiefMaster">
+    <searchResultIndication color="#006080" />
+    <filteredSearchResultIndication color="#606080" />
+    <occurrenceIndication color="#0000AA" />
+    <writeOccurrenceIndication color="#0000AA" />
+    <findScope color="#FFFFFF" />
+    <deletionIndication color="#FFFFFF" />
+    <sourceHoverBackground color="#FFFFFF" />
+    <singleLineComment color="#80A0FF" bold="false" />
+    <multiLineComment color="#80A0FF" />
+    <commentTaskTag color="#B0C0FF" />
+    <javadoc color="#CCDF32" />
+    <javadocLink color="#D9E577" />
+    <javadocTag color="#D9E577" />
+    <javadocKeyword color="#D9E577" />
+    <class color="#60FF60" />
+    <interface color="#60FF60" />
+    <method color="#AAFFAA" />
+    <methodDeclaration color="#BED6FF" />
+    <bracket color="#D0D0D0" />
+    <number color="#FFFFBB" />
+    <string color="#FFA0A0" />
+    <operator color="#D0D0D0" />
+    <keyword color="#FFFF60" />
+    <annotation color="#FFFFFF" />
+    <staticMethod color="#BED6FF" />
+    <localVariable color="#40FFFF" />
+    <localVariableDeclaration color="#BED6FF" />
+    <field color="#BED6FF" />
+    <staticField color="#EFC090" />
+    <staticFinalField color="#EFC090" />
+    <deprecatedMember color="#FFFFFF" />
+    <enum color="#FFFFFF" />
+    <inheritedMethod color="#BED6FF" />
+    <abstractMethod color="#BED6FF" />
+    <parameterVariable color="#79ABFF" />
+    <typeArgument color="#BFA4A4" />
+    <typeParameter color="#BFA4A4" />
+    <constant color="#FFFF00" />
+    <background color="#000040" />
+    <currentLine color="#000060" />
+    <foreground color="#D0D0D0" />
+    <lineNumber color="#90F020" />
+    <selectionBackground color="#A0B0EE" />
+    <selectionForeground color="#FFFFFF" />
+</colorTheme>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="3248" name="Green Heaven" modified="2011-08-30 16:45:50" author="Jean-Simon Garneau">
+    <searchResultIndication color="#616161" />
+    <filteredSearchResultIndication color="#616161" />
+    <occurrenceIndication color="#616161" />
+    <writeOccurrenceIndication color="#677788" />
+    <findScope color="#E0E2E4" />
+    <deletionIndication color="#FFFFFF" />
+    <sourceHoverBackground color="#FFFFFF" />
+    <singleLineComment color="#057207" bold="false" />
+    <multiLineComment color="#057207" underline="true" strikethrough="false" />
+    <commentTaskTag color="#FF8BFF" />
+    <javadoc color="#057207" />
+    <javadocLink color="#46B191" />
+    <javadocTag color="#E0E2E4" />
+    <javadocKeyword color="#A082BD" />
+    <class color="#46B191" />
+    <interface color="#46B191" />
+    <method color="#46B191" />
+    <methodDeclaration color="#E8E2B7" />
+    <bracket color="#E8E2B7" />
+    <number color="#FFCD22" />
+    <string color="#EC7600" />
+    <operator color="#E8E2B7" />
+    <keyword color="#40B940" bold="true" italic="false" underline="false" strikethrough="false" />
+    <annotation color="#A082BD" />
+    <staticMethod color="#FFFFFF" />
+    <localVariable color="#FFFFFF" />
+    <localVariableDeclaration color="#FFFFFF" bold="false" />
+    <field color="#678CB1" />
+    <staticField color="#678CB1" />
+    <staticFinalField color="#FFFFFF" />
+    <deprecatedMember color="#FFFFFF" />
+    <enum color="#FFFFFF" />
+    <inheritedMethod color="#FFFFFF" />
+    <abstractMethod color="#FFFFFF" />
+    <parameterVariable color="#FFFFFF" />
+    <typeArgument color="#FFFFFF" underline="false" strikethrough="false" />
+    <typeParameter color="#E0E2E4" />
+    <constant color="#A082BD" />
+    <background color="#000000" />
+    <currentLine color="#2F393C" />
+    <foreground color="#E0E2E4" />
+    <lineNumber color="#81969A" />
+    <selectionBackground color="#804000" />
+    <selectionForeground color="#E0E2E4" />
+</colorTheme>

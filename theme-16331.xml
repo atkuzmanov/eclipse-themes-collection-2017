@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="16331" name="IntelliJ SublimeMonokai" modified="2013-05-02 14:23:03" author="Bartek Filipowicz">
+    <searchResultIndication color="#1E90FF" />
+    <filteredSearchResultIndication color="#1E90FF" />
+    <occurrenceIndication color="#000000" />
+    <writeOccurrenceIndication color="#000000" />
+    <findScope color="#000000" />
+    <deletionIndication color="#D25252" />
+    <sourceHoverBackground color="#000000" />
+    <singleLineComment color="#71715E" italic="false" />
+    <multiLineComment color="#71715E" italic="false" />
+    <commentTaskTag color="#CCDF32" />
+    <javadoc color="#71715E" italic="false" />
+    <javadocLink color="#D9E577" />
+    <javadocTag color="#D9E577" />
+    <javadocKeyword color="#D9E577" />
+    <class color="#E5DB74" />
+    <interface color="#FFFFFF" />
+    <method color="#E5DB74" />
+    <methodDeclaration color="#FFFFFF" />
+    <bracket color="#D8D8D8" />
+    <number color="#A581FF" />
+    <string color="#A581FF" />
+    <operator color="#FF992F" />
+    <keyword color="#66D9EF" />
+    <annotation color="#7AE27F" />
+    <staticMethod color="#FFFFFF" italic="true" />
+    <localVariable color="#BCE9FD" />
+    <localVariableDeclaration color="#BCE9FD" />
+    <field color="#D1DAE7" />
+    <staticField color="#FFFDFE" italic="true" />
+    <staticFinalField color="#FFFDFE" italic="true" />
+    <deprecatedMember color="#F8F8F2" underline="false" strikethrough="true" />
+    <enum color="#66D9EF" />
+    <inheritedMethod color="#BED6FF" />
+    <abstractMethod color="#BED6FF" />
+    <parameterVariable color="#FF992F" />
+    <typeArgument color="#BFA4A4" />
+    <typeParameter color="#BFA4A4" />
+    <constant color="#EFB571" bold="false" underline="false" strikethrough="false" />
+    <background color="#282924" />
+    <currentLine color="#49483E" />
+    <foreground color="#FFFFFF" />
+    <lineNumber color="#8F908A" />
+    <selectionBackground color="#7F8787" />
+    <selectionForeground color="#FFFFFF" />
+</colorTheme>

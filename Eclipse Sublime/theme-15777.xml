@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="15777" name="Sublime Slim" modified="2013-04-11 12:10:16" author="Jacek Majda">
+    <searchResultIndication color="#D8D8D8" />
+    <filteredSearchResultIndication color="#D8D8D8" />
+    <occurrenceIndication color="#000000" />
+    <writeOccurrenceIndication color="#000000" />
+    <findScope color="#000000" />
+    <deletionIndication color="#FF0000" />
+    <sourceHoverBackground color="#FFFFFF" />
+    <singleLineComment color="#FFFFFF" bold="false" italic="true" />
+    <multiLineComment color="#FFFFFF" italic="true" />
+    <commentTaskTag color="#FFFFFF" italic="true" />
+    <javadoc color="#FFFFFF" />
+    <javadocLink color="#CFBFAD" />
+    <javadocTag color="#CFBFAD" />
+    <javadocKeyword color="#D9E577" />
+    <class color="#52E3F6" />
+    <interface color="#52E3F6" />
+    <method color="#A7EC21" />
+    <methodDeclaration color="#A7EC21" />
+    <bracket color="#F9FAF4" />
+    <number color="#C48CFF" />
+    <string color="#ECE47E" />
+    <operator color="#F6A6CF" />
+    <keyword color="#F6A6CF" />
+    <annotation color="#FFFFFF" />
+    <staticMethod color="#A7EC21" />
+    <localVariable color="#CFBFAD" />
+    <localVariableDeclaration color="#CFBFAD" />
+    <field color="#CFBFAD" />
+    <staticField color="#CFBFAD" />
+    <staticFinalField color="#CFBFAD" />
+    <deprecatedMember color="#FF0000" />
+    <inheritedMethod color="#BED6FF" />
+    <abstractMethod color="#BED6FF" />
+    <parameterVariable color="#79ABFF" />
+    <typeArgument color="#BFA4A4" />
+    <typeParameter color="#BFA4A4" />
+    <background color="#272822" />
+    <currentLine color="#5B5A4E" />
+    <foreground color="#CFBFAD" />
+    <lineNumber color="#999999" />
+    <selectionBackground color="#6D530D" />
+    <selectionForeground color="#404040" />
+</colorTheme>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="6498" name="Ragnarok Grey" modified="2012-03-03 19:12:51" author="xfxian">
+    <searchResultIndication color="#474F76" />
+    <filteredSearchResultIndication color="#474F76" />
+    <occurrenceIndication color="#616161" />
+    <writeOccurrenceIndication color="#6E6E6E" />
+    <findScope color="#6E6E6E" />
+    <deletionIndication color="#EDDAC0" />
+    <sourceHoverBackground color="#616161" />
+    <singleLineComment color="#7CFC00" />
+    <multiLineComment color="#7CFC00" />
+    <commentTaskTag color="#7CFC00" bold="false" />
+    <javadoc color="#7CFC00" />
+    <javadocLink color="#5D96E9" />
+    <javadocTag color="#808080" />
+    <javadocKeyword color="#808080" />
+    <class color="#00FFFF" />
+    <interface color="#00FFFF" />
+    <method color="#EDDAC0" />
+    <methodDeclaration color="#EDDAC0" />
+    <bracket color="#EDDAC0" />
+    <number color="#FF80FF" />
+    <string color="#FF80FF" />
+    <operator color="#EDDAC0" />
+    <keyword color="#3AC4FF" />
+    <annotation color="#808080" />
+    <staticMethod color="#EDDAC0" />
+    <localVariable color="#EDDAC0" />
+    <localVariableDeclaration color="#EDDAC0" />
+    <field color="#EDDAC0" />
+    <staticField color="#EDDAC0" />
+    <staticFinalField color="#EDDAC0" />
+    <deprecatedMember color="#EDDAC0" />
+    <enum color="#EDDAC0" />
+    <inheritedMethod color="#EDDAC0" />
+    <abstractMethod color="#EDDAC0" />
+    <parameterVariable color="#EDDAC0" />
+    <typeArgument color="#EDDAC0" />
+    <typeParameter color="#EDDAC0" />
+    <constant color="#EDDAC0" />
+    <background color="#303030" />
+    <currentLine color="#303030" />
+    <foreground color="#F6F3E8" />
+    <lineNumber color="#ADADAD" />
+    <selectionBackground color="#6E6E6E" />
+    <selectionForeground color="#F6F3E8" />
+</colorTheme>

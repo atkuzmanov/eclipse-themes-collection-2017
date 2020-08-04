@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="3813" name="I love green" modified="2011-10-06 07:48:08" author="suepy">
+    <searchResultIndication color="#EEFFEE" />
+    <filteredSearchResultIndication color="#EEFFEE" />
+    <occurrenceIndication color="#616161" />
+    <writeOccurrenceIndication color="#948567" />
+    <findScope color="#BCADAD" />
+    <deletionIndication color="#FFFFFF" />
+    <sourceHoverBackground color="#A19879" />
+    <singleLineComment color="#00EE00" />
+    <multiLineComment color="#00EE00" bold="false" />
+    <commentTaskTag color="#009900" bold="true" underline="false" strikethrough="false" />
+    <javadoc color="#00BB00" bold="true" />
+    <javadocLink color="#00BB00" underline="true" strikethrough="false" />
+    <javadocTag color="#00BBBB" bold="true" />
+    <javadocKeyword color="#00BBBB" underline="false" strikethrough="false" />
+    <class color="#00FF00" bold="true" />
+    <interface color="#00FF00" />
+    <method color="#BBFFBB" bold="true" />
+    <methodDeclaration color="#00FF00" />
+    <bracket color="#00FF00" underline="false" strikethrough="false" />
+    <number color="#00FF00" />
+    <string color="#AAAAAA" />
+    <operator color="#FFFF00" />
+    <keyword color="#AAFF22" bold="true" />
+    <annotation color="#00FF00" />
+    <staticMethod color="#00FF00" />
+    <localVariable color="#00FF00" />
+    <localVariableDeclaration color="#00FF00" />
+    <field color="#BBDD55" bold="true" />
+    <staticField color="#00FF00" />
+    <staticFinalField color="#00FF00" bold="true" />
+    <deprecatedMember color="#FFFFFF" />
+    <background color="#000000" />
+    <currentLine color="#777700" />
+    <foreground color="#00FF00" />
+    <lineNumber color="#C0C0C0" />
+    <selectionBackground color="#606060" />
+    <selectionForeground color="#EEFFEE" />
+</colorTheme>

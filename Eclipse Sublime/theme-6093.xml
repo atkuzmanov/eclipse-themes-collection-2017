@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="6093" name="Sublime Text 2 Monokai Clone" modified="2012-02-15 00:17:49" author="Colin">
+    <searchResultIndication color="#FFE792" />
+    <filteredSearchResultIndication color="#FFE792" />
+    <occurrenceIndication color="#75715E" />
+    <writeOccurrenceIndication color="#75715E" />
+    <findScope color="#F92672" />
+    <deletionIndication color="#FD971F" underline="false" strikethrough="true" />
+    <sourceHoverBackground color="#75715E" />
+    <singleLineComment color="#F92672" italic="false" />
+    <multiLineComment color="#F92672" italic="false" />
+    <commentTaskTag color="#F92672" italic="false" />
+    <javadoc color="#66D9EF" italic="false" />
+    <javadocLink color="#A6E22E" italic="false" />
+    <javadocTag color="#A6E22E" italic="false" />
+    <javadocKeyword color="#66D9EF" italic="false" />
+    <class color="#F8F8F2" bold="false" underline="false" strikethrough="false" />
+    <interface color="#A6E22E" />
+    <method color="#A6E22E" />
+    <methodDeclaration color="#F92672" />
+    <bracket color="#F92672" />
+    <number color="#F8F8F2" />
+    <string color="#A6E22E" />
+    <operator color="#FD971F" />
+    <keyword color="#F8F8F2" bold="false" />
+    <annotation color="#F8F8F2" />
+    <staticMethod color="#F8F8F2" />
+    <localVariable color="#F8F8F2" />
+    <localVariableDeclaration color="#F8F8F2" />
+    <field color="#AE81FF" />
+    <staticField color="#F8F8F2" />
+    <staticFinalField color="#A6E22E" />
+    <deprecatedMember color="#A6E22E" underline="false" strikethrough="true" />
+    <enum color="#FD971F" />
+    <inheritedMethod color="#FD971F" />
+    <abstractMethod color="#AE81FF" />
+    <parameterVariable color="#FD971F" />
+    <typeArgument color="#F8F8F2" />
+    <typeParameter color="#F8F8F2" />
+    <constant color="#AE81FF" />
+    <background color="#272822" />
+    <currentLine color="#3E3D32" />
+    <foreground color="#F8F8F2" />
+    <lineNumber color="#3B3A32" />
+    <selectionBackground color="#49483E" />
+    <selectionForeground color="#F8F8F2" />
+</colorTheme>

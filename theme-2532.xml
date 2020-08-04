@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="2532" name="DARKBLUE_Sipos" modified="2011-09-08 06:31:49" author="Sipos Csaba">
+    <searchResultIndication color="#202021" />
+    <filteredSearchResultIndication color="#202021" />
+    <occurrenceIndication color="#202021" />
+    <writeOccurrenceIndication color="#202021" />
+    <findScope color="#202021" />
+    <deletionIndication color="#0080FF" />
+    <sourceHoverBackground color="#202021" />
+    <singleLineComment color="#27D722" italic="false" />
+    <multiLineComment color="#27D722" italic="false" underline="false" strikethrough="false" />
+    <commentTaskTag color="#27D722" italic="false" />
+    <javadoc color="#27D722" italic="false" />
+    <javadocLink color="#27D722" italic="false" />
+    <javadocTag color="#27D722" italic="false" />
+    <javadocKeyword color="#27D722" italic="false" />
+    <class color="#0080FF" bold="false" underline="false" strikethrough="false" />
+    <interface color="#0080FF" />
+    <method color="#0080FF" />
+    <methodDeclaration color="#FFFFFF" />
+    <bracket color="#0080FF" />
+    <number color="#EEE229" />
+    <string color="#888888" />
+    <operator color="#BED6FF" />
+    <keyword color="#0080FF" bold="false" />
+    <annotation color="#0080FF" />
+    <staticMethod color="#0080FF" />
+    <localVariable color="#FFFFFF" />
+    <localVariableDeclaration color="#FFFFFF" />
+    <field color="#FFFFFF" />
+    <staticField color="#FFFFFF" />
+    <staticFinalField color="#0080FF" />
+    <deprecatedMember color="#0080FF" underline="false" strikethrough="true" />
+    <enum color="#FFFFFF" />
+    <inheritedMethod color="#FFFFFF" />
+    <abstractMethod color="#FFFFFF" />
+    <parameterVariable color="#FFFFFF" />
+    <typeArgument color="#FFFFFF" />
+    <typeParameter color="#FFFFFF" />
+    <constant color="#FFFFFF" bold="false" italic="false" />
+    <background color="#000000" />
+    <currentLine color="#000000" />
+    <foreground color="#FFFFFF" />
+    <lineNumber color="#202021" />
+    <selectionBackground color="#202021" />
+    <selectionForeground color="#FFFFFF" />
+</colorTheme>
